@@ -1,4 +1,4 @@
-# badge
+# task
 Elgg plugin for creating tasks or assignments in social learning environments (Elgg 1.12)
 ## Autores: M.E. Sousa-Vieira, J.C. López-Ardao
 ### Required plugins (dependences): 
